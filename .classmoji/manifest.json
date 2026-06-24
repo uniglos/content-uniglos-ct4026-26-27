@@ -1,20 +1,20 @@
 {
   "repositories": {
-    "game-engine-scripting": {
+    "a1-modes-of-motion": {
       "pages": [],
       "slides": [],
       "assignments": {
         "ct4026-a1-modes-of-motion": {
-          "pages": [],
+          "pages": [
+            "ct4026-a1-info"
+          ],
           "slides": []
         }
       }
     }
   },
   "general": {
-    "pages": [
-      "ct4026-a1-info"
-    ],
+    "pages": [],
     "slides": []
   }
 }
