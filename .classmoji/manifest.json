@@ -1,22 +1,9 @@
 {
   "repositories": {
-    "a1-modes-of-motion": {
-      "pages": [
-        "ct4026-a1-info"
-      ],
+    "ct4026a1modesofmotion": {
+      "pages": [],
       "slides": [],
-      "assignments": {
-        "ct4026-a1-modes-of-motion": {
-          "pages": [
-            "ct4026-a1-info"
-          ],
-          "slides": []
-        },
-        "ct4026-a2-pinball": {
-          "pages": [],
-          "slides": []
-        }
-      }
+      "assignments": {}
     }
   },
   "general": {
